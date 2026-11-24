@@ -363,3 +363,5 @@ MigrationBackup/
 FodyWeavers.
 # Application logs
 Logs/
+# Uploaded files
+wwwroot/Files/

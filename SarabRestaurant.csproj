@@ -17,4 +17,8 @@
     <ProjectReference Include="..\SarabRestaurant.Services\SarabRestaurant.Services.csproj" />
   </ItemGroup>
 
+  <ItemGroup>
+    <Folder Include="wwwroot\Files\" />
+  </ItemGroup>
+
 </Project>
